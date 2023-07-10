@@ -1,0 +1,32 @@
+{"result":true,"curriculum":[{"_id":"649bb2b03c81cacb0b40cbfc","active":true,"deleted":false,"allChapters":true,"id":3093755,"subjectId":162,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca7","id":162,"grade":{"description":"Class","id":47,"number":12},"name":"Physics","altName":"","description":"Physics","iconType":"science","sortOrder":2,"storeId":1,"accessLevelId":1,"contentResources":[]}},{"_id":"649bb2b03c81cacb0b40cbfd","active":true,"deleted":false,"allChapters":true,"id":3093754,"subjectId":161,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca6","id":161,"grade":{"description":"Class","id":47,"number":12},"name":"Mathematics","altName":"","description":"Mathematics","iconType":"math","sortOrder":1,"storeId":1,"accessLevelId":1,"contentResources":[]}},{"_id":"649bb2b03c81cacb0b40cbfe","active":true,"deleted":false,"allChapters":true,"id":3093753,"subjectId":160,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca8","id":160,"grade":{"description":"Class","id":47,"number":12},"name":"Chemistry","altName":"","description":"Chemistry","iconType":"science","sortOrder":3,"storeId":1,"accessLevelId":1,"contentResources":[]}}]}
+
+
+POST data:
+{"userSubjectId":3093755,"storeIds":[2589,1],"sectionIds":[4121],"sessionId":"mdb-5a6466e2f7534fa39a9d847427536919"}
+
+[no cookies]
+
+
+POST data:
+{"userSubjectId":3093754,"storeIds":[2589,1],"sectionIds":[4121],"sessionId":"mdb-5a6466e2f7534fa39a9d847427536919"}
+
+
+
+POST data:
+{"userSubjectId":3093753,"storeIds":[2589,1],"sectionIds":[4121],"sessionId":"mdb-5a6466e2f7534fa39a9d847427536919"}
+
+[no cookies]
+
+
+
+
+
+POST data:
+{"userId":388911,"storeIds":[2589,1],"sectionIds":[4121],"sessionId":"mdb-a91299917b7e4827a05720fcad52c290"}
+
+[no cookies]
+
+
+
+
+{"result":true,"curriculum":[{"_id":"649bb2b03c81cacb0b40cbfc","active":true,"deleted":false,"allChapters":true,"id":3093755,"subjectId":162,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca7","id":162,"grade":{"description":"Class","id":47,"number":12},"name":"Physics","altName":"","description":"Physics","iconType":"science","sortOrder":2,"storeId":1,"accessLevelId":1,"contentResources":[]}},{"_id":"649bb2b03c81cacb0b40cbfd","active":true,"deleted":false,"allChapters":true,"id":3093754,"subjectId":161,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca6","id":161,"grade":{"description":"Class","id":47,"number":12},"name":"Mathematics","altName":"","description":"Mathematics","iconType":"math","sortOrder":1,"storeId":1,"accessLevelId":1,"contentResources":[]}},{"_id":"649bb2b03c81cacb0b40cbfe","active":true,"deleted":false,"allChapters":true,"id":3093753,"subjectId":160,"targetAssessmentGroup":null,"targetAssignmentGroup":null,"targetStudyGroup":null,"userSectionId":617165,"statusId":2,"userGradeId":603789,"gradeId":47,"userId":388911,"sectionId":4121,"sectionName":"IIT","userName":"ind.iitstu003","roleId":4,"institutionId":2642,"fullName":"ind iit stu 3 i","subject":{"_id":"62ecf9ccc6499a09f0e22ca8","id":160,"grade":{"description":"Class","id":47,"number":12},"name":"Chemistry","altName":"","description":"Chemistry","iconType":"science","sortOrder":3,"storeId":1,"accessLevelId":1,"contentResources":[]}}]}
